@@ -118,3 +118,32 @@ p.warn {
     padding: 6px 0 6px 10px;
     border-left: 1px solid rgb(97, 97, 97);
 }
+
+
+/* Some of the things i have done */
+
+.main-elements {
+    margin: 10px auto 20px auto;
+}
+
+.main-elements>a,
+.sub-elements>a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 50px;
+    margin: 5px 0;
+    display: inline-block;
+}
+
+.first__element {
+    background-color: aqua;
+}
+
+.main-elements>a {
+    background-color: rgb(200, 226, 248);
+}
+
+.sub-elements>a {
+    border: 2px solid rgb(94, 94, 94);
+}
